@@ -87,8 +87,8 @@ Usage
 ===
 
 #### Requirements
-* Coin daemon(s) (find the coin's repo and build latest version from source)
-* RPC wallet)walletd_ (Bytecoin/Forknote v2.1.2).
+* Coin daemon(s) (build latest version from source https://github.com/leviarcoin/leviarcoin-src)
+* RPC wallet(walletd) (Bytecoin/Forknote v2.1.2).
 ```
 * [Node.js](http://nodejs.org/) v0.10+ ([follow these installation instructions](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager))
 * [Redis](http://redis.io/) key-value store v2.6+ ([follow these instructions](http://redis.io/topics/quickstart))
