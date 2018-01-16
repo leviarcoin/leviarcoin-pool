@@ -43,14 +43,14 @@
             "enabled": true,
             "minDiff": 1000,
             "maxDiff": 2000000,
-            "targetTime": 100,
+            "targetTime": 55,
             "retargetTime": 120,
             "variancePercent": 30,
             "maxJump": 20
         },
         "fixedDiff": {
             "enabled": true,
-            "addressSeparator": "."
+            "addressSeparator": "+"
         },
         "shareTrust": {
             "enabled": true,
