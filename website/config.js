@@ -1,3 +1,4 @@
+
 var api = "http://poolhost.com:1117";
 
 var api_blockexplorer = "http://daemonhost.com:1118";
@@ -22,6 +23,14 @@ var networkStat = {
     "bcn": [
         ["bcn.mypool.online", "http://bcn.mypool.online:8084"],
         ["democats.org", "http://pool.democats.org:7603"]
+    ],
+    "xlc": [
+        ["xlc.crypto-coins.club", "http://xlc.crypto-coins.club:8118"],
+        ["pool.leviarcoin.org (Russia)", "https://pool.leviarcoin.org:9117"],
+	["xlc.soyminero.es (Spain/US/Germany/Ireland/Mumbai/Tokyo/Brazil)" , "http://xlc.soyminero.es:8120"],
+	["xlc.vaypool.org (Amsterdam)" , "http://xlc.vaypool.org:15003"],
+	["www.supportxlc.com" , "http://www.supportxlc.com/api"],
+        ["xlc.jbarbieri.net (US)", "http://xlc.jbarbieri.net:39117"]
     ],
     "bip": [
         ["bip.mypool.online", "http://bip.mypool.online:18874"],
