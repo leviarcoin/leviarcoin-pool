@@ -82,6 +82,7 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 * https://pool.leviarcoin.org
 * http://etn.vaypool.org
+* http://xlc.jbarbieri.net
 
 Usage
 ===
@@ -118,7 +119,7 @@ sudo apt-get install git build-essential redis-server libboost1.55-all-dev nodej
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/forknote/cryptonote-universal-pool.git pool
+git clone https://github.com/leviarcoin/leviarcoin-pool.git pool
 cd pool
 npm update
 ```
